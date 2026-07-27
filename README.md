@@ -2,18 +2,19 @@
 <h3 align="center">Junior Backend Developer | Java & Spring Boot</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mario-sergio-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mario-sergio-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### About me
 
-I spent six years teaching English before switching tracks into backend development. I'm currently finishing a degree in Information Systems and building my foundations in Java and Spring Boot — coming from a non-traditional background means I care a lot about understanding *why* something works, not just getting it to run.
+I spent six years teaching English before switching tracks into backend development. I'm currently finishing a degree in Information Systems (Univille, 2027) and building my foundations in Java and Spring Boot — coming from a non-traditional background means I care a lot about understanding *why* something works, not just getting it to run.
 
 - 🎓 Information Systems student at Univille
 - 💼 Job hunting for junior backend / full-stack roles
-- 🌱 Currently deepening: Spring Security, OAuth2/JWT, Docker, CI/CD, and data structures & algorithms.
+- 🌱 Currently deepening: Spring Security, OAuth2/JWT, Docker, CI/CD, and data structures & algorithms (NeetCode 150)
 - 🗣️ C1 English — happy to work with international teams
 
 ### Tech stack
@@ -48,10 +49,9 @@ Backend REST API built with Java and Spring Boot, secured with OAuth2/JWT, deplo
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Marioo-Jr&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marioo-Jr" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Marioo-Jr" height="165">
 </p>
 
 ---
 
 <p align="center"><i>Open to junior backend / full-stack opportunities — let's connect.</i></p>
-
